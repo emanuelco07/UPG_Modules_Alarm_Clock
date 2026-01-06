@@ -58,4 +58,4 @@ The HTML/JavaScript interface allows users to:
 - Adjust the LED strip brightness using a slider (0-255).
 - Download the historical log files.
 
-For more information check the Romania [documentation]().
+For more information check the Romania [documentation](https://github.com/emanuelco07/UPG_Modules_Alarm_Clock/blob/main/Tema_4_Cosereanu_Emanuel.pdf).
