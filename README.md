@@ -3,6 +3,18 @@
 ## Project Overview
 This project consists of a smart alarm clock designed for students and faculty at the Petroleum-Gas University of Ploiești (UPG). The system tracks the university's academic schedule, indicating whether a class module is in progress, if there is a break, or if classes have ended for the day. It combines environmental monitoring, visual and audible signaling, and data logging into a single IoT device.
 
+## Project Gallery
+<table>
+<tr>
+<td><img src="in_pauza.jpeg" width="400"><br><sub><b>Figure 1:</b> Assembled Project Overview</sub></td>
+<td><img src="in_moudul.jpeg" width="400"><br><sub><b>Figure 2:</b> Web Interface Dashboard</sub></td>
+</tr>
+<tr>
+<td><img src="server_conections.png" width="400"><br><sub><b>Figure 3:</b> MQTT Data Transmission</sub></td>
+<td><img src="dashboard.jpeg" width="400"><br><sub><b>Figure 4:</b> Status Comparison (Break vs. Module)</sub></td>
+</tr>
+</table>
+
 ## Features
 - **Real-Time Schedule Tracking**: Displays the current academic module or break status based on the UPG timetable.
 - **Time Synchronization**: Uses the Network Time Protocol (NTP) to maintain accurate time and date.
