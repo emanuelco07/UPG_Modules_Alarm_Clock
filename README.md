@@ -6,12 +6,12 @@ This project consists of a smart alarm clock designed for students and faculty a
 ## Project Gallery
 <table>
 <tr>
-<td><img src="in_pauza.jpeg" width="400"><br><sub><b>Figure 1:</b> Assembled Project Overview</sub></td>
-<td><img src="in_moudul.jpeg" width="400"><br><sub><b>Figure 2:</b> Web Interface Dashboard</sub></td>
+<td><img src="in_pauza.jpeg" width="400"><br><sub><b>Figure 1:</b></td>
+<td><img src="in_moudul.jpeg" width="400"><br><sub><b>Figure 2:</b></td>
 </tr>
 <tr>
-<td><img src="server_conections.png" width="400"><br><sub><b>Figure 3:</b> MQTT Data Transmission</sub></td>
-<td><img src="dashboard.jpeg" width="400"><br><sub><b>Figure 4:</b> Status Comparison (Break vs. Module)</sub></td>
+<td><img src="server_conections.png" width="400"><br><sub><b>Figure 3:</b> </td>
+<td><img src="dashboard.jpeg" width="400"><br><sub><b>Figure 4:</b> </td>
 </tr>
 </table>
 
