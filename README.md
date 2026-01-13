@@ -11,7 +11,7 @@ This project consists of a smart alarm clock designed for students and faculty a
 </tr>
 <tr>
 <td><img src="server_conections.png" width="400"><br></td>
-<td><img src="dashboard.jpeg" width="400"><br></td>
+<td><img src="dashboard.png" width="400"><br></td>
 </tr>
 </table>
 
